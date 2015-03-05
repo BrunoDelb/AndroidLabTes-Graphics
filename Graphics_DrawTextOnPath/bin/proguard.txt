@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:6
+-keep class com.mma.androidlabtest.Main { <init>(...); }
+
+# view res/layout/main.xml #generated:8
+-keep class org.example.graphics.Graphics.GraphicsView { <init>(...); }
+
